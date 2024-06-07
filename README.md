@@ -9,7 +9,7 @@ https://github.com/Enraged-Rabbit-Community/ERCF_v2
 
 # BOM
 
-[ ERCF V2](https://github.com/FYSETC/FYSETC-ERCF-V2/BOM)
+[ ERCF V2](https://github.com/FYSETC/FYSETC-ERCF-V2/tree/main/BOM)
 
 # STL changes
 
@@ -25,13 +25,18 @@ Check it [here](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/
 
 # Installation Guide
 
-FYSETC ERCF V2 Assembly manual [here](https://github.com/VoronDesign/Voron-0/tree/Voron0.2/Manuals).
+FYSETC ERCF V2 Assembly manual [here](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Documentation).
 
 # Firmware&OS
 
+
+
 # FAQ
 
-## 
+### Original ERCF V2 FAQ [here](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Documentation).
+### FYSETC ERCF V2 FAQ
+
+
 
 # Support
 
