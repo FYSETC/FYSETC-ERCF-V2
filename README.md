@@ -21,7 +21,7 @@ Check it [here](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/
 
 ### FYSETC ERCF V2 kit wiring
 
-![](https://github.com/FYSETC/FYSETC%20ERCF%20V2%20wiring.png)
+![](https://github.com/FYSETC/FYSETC-ERCF-V2/blob/main/Fysetc%20ERCF%20V2%20Wiring.png)
 
 # Installation Guide
 
@@ -36,6 +36,9 @@ FYSETC ERCF V2 Assembly manual [here](https://github.com/VoronDesign/Voron-0/tre
 # Support
 
 FYSETC Facebook group: 
+
 https://www.facebook.com/groups/238970713918171
+
 FYSETC Discord:
+
 https://discord.gg/T3XcJPgr 
