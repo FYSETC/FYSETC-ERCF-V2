@@ -15,7 +15,7 @@ https://github.com/Enraged-Rabbit-Community/ERCF_v2
 
 ### FYSETC ERCF V2 STLs
 
-Check it [here](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/master/Stls).
+Check it [here](https://github.com/Enraged-Rabbit-Community/ERCF_v2/tree/rc1/Vendor_Mods/Fysetc).
 
 # Wiring
 
